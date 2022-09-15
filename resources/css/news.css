@@ -1,0 +1,18 @@
+.wall-news-progress-bar {
+  display: inline-block;
+  width: 20%;
+  margin: 0 0 0 5px;
+}
+.wall-news-progress-bar .progress-bar {
+  line-height: 9px;
+  font-size: 70%;
+}
+.panel-news .media {
+  margin-top: 0px;
+}
+.panel-news .subline {
+  font-size: 11px !important;
+}
+.panel-news .media-list li:last-child {
+  border-bottom: 0px;
+}
